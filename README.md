@@ -1,11 +1,3 @@
-```
- /      ||  |  |  | |   _  \   /      || || |   |  |/  / |___ \  
-|  ,----'|  |  |  | |  |_)  | |  ,----'| || |_  |  '  /    __) | 
-|  |     |  |  |  | |   ___/  |  |     |__   _| |    <    |__ <  
-|  `----.|  `--'  | |  |      |  `----.   | |   |  .  \   ___) | 
- \______| \______/  | _|       \______|   |_|   |__|\__\ |____/
-```
-
 ![cupc4k3](https://see.fontimg.com/api/renderfont4/owmnz/eyJyIjoiZnMiLCJoIjo5MCwidyI6MTAwMCwiZnMiOjkwLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q1VQQzRLMw/alpha-taurus-expanded.png)
 
 
