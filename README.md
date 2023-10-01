@@ -3,8 +3,11 @@
 |  ,----'|  |  |  | |  |_)  | |  ,----'| || |_  |  '  /    __) | 
 |  |     |  |  |  | |   ___/  |  |     |__   _| |    <    |__ <  
 |  `----.|  `--'  | |  |      |  `----.   | |   |  .  \   ___) | 
- \______| \______/  | _|       \______|   |_|   |__|\__\ |____/  
+ \______| \______/  | _|       \______|   |_|   |__|\__\ |____/
 ```
+
+![cupc4k3](https://see.fontimg.com/api/renderfont4/owmnz/eyJyIjoiZnMiLCJoIjo5MCwidyI6MTAwMCwiZnMiOjkwLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q1VQQzRLMw/alpha-taurus-expanded.png)
+
 
 [![Medium](https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://cupc4k3.medium.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cupc4k3/)
